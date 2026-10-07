@@ -213,6 +213,23 @@ CRUD operations and ticket filtering were tested for successful and invalid requ
 * Dashboard and reporting
 * Docker deployment
 
+## API Testing Screenshots
+
+### Employee API
+![Employee API](screenshots/01-employee-api.png)
+
+### Support Agent API
+![Support Agent API](screenshots/02-support-agents-api.png)
+
+### All Tickets
+![All Tickets](screenshots/03-all-tickets-api.png)
+
+### Ticket Status Filtering
+![Ticket Status Filtering](screenshots/04-ticket-status-filter.png)
+
+### Ticket Priority Filtering
+![Ticket Priority Filtering](screenshots/05-ticket-priority-filter.png)
+
 ## Author
 
 Talari Devika
